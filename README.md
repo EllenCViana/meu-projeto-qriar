@@ -8,7 +8,7 @@
 ### Produção geral do guaraná em rama (grãos torrados) 
 <img align="justify" src="./img/producaogeral.jpg" width="747px" height="508px"></img>
 <p align="justify">A produção do guaraná em rama pelos produtores familiares ocorre em três etapas: produção (preparo, plantio e manejo), colheita e beneficiamento primário. Esta última abrange atividades de despolpa, lavagem e torrefação da semente. O trabalho é realizado pela família, através de troca de serviços, grupos de trabalho (puxirum) ou pagamento de diárias.</p>
-<img align="justify" src="./img/beneficiamentoprimario.jpg></img>
+<img align="justify" src="./img/beneficiamentoprimario.jpg" width="813px" height="176px"></img>
 
 ### Produção: preparo da área, plantio e manejo
 <img align="justify" src="./img/producao.jpg" width="752px" height="465px"></img>
