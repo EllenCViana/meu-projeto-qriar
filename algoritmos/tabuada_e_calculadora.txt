@@ -1,0 +1,18 @@
+tabuada interativa:
+
+O programa deve pedir ao usuario para digitar um unico valor
+Ao digitar o valor
+O programa mostra ao usuario a tabuada de soma, pegando esse numero e somando com cada valor de 1 a 9 e mostrando o resultado na tela para o usuario;
+Em seguida,
+O programa mostra ao usuario a tabuada de subtracao, pegando esse numero e subtraindo com cada valor de 1 a 9 e mostrando o resultado na tela para o usuario;
+Em seguida,
+O programa mostra ao usuario a tabuada de multiplicacao, pegando esse numero e multiplicando com cada valor de 1 a 9 e mostrando o resultado na tela para o usuario;
+Em seguida,
+O programa mostra ao usuario a tabuada de divisao, pegando esse numero e dividindo com cada valor de 1 a 9 e mostrando o resultado na tela para o usuario;
+ao terminar de motrar todas as tabuadas, o programa da duas opcoes ao usuario: digitar outro valor ou um valor especial como (000) para finalizar o programa.
+
+calculadora de fatorial:
+
+O programa deve pedir ao usuario para digitar um numero inteiro positivo;
+Para fazer o calculo do fatorial o programa cria um loop while que continua calculando ate chegar em 0, multiplicando o valor inserido com o valor antecessor, depois pegando esse valor antecessor e multiplicando com o valor antecessor a ele, fazendo isso até chegar a 0;
+Em seguida o programa deve mostrar ao usuario o resultado do fatorial dele.
