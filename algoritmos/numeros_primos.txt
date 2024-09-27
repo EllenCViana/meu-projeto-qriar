@@ -1,0 +1,13 @@
+O programa gera um numero primo aleatorio
+O usuario tem 3 tentativas para adivinhar o numero primo escolhido pelo computador
+Digamos que o programa escolheu o numero 7
+Na primeira tentativa o usuario entra com o numero 11
+O programa diz que ele errou e da a primeira dica: O numero que escolhi  é maior que 0 e menor que o valor que voce inseriu
+O usuario agora pode inserir os valores [1, 3, 5, 7 e 9]
+ele insere o valor 3
+O programa diz que ele errou e da a segunda dica: o numero que escolhi é maior que o valor que vc inseriu
+ele insere o valor 9
+O programa diz que ele errou e da a terceira dica: o numero que escolhi é menor que o valor que vc inseriu
+ele insere o valor 7
+o programa faz uma comparacao entre seu numero e o numero inserido pelo usuario
+mostrando na tela que o usuario acertou
